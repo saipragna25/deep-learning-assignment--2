@@ -4,6 +4,7 @@ https://colab.research.google.com/github/saipragna25/deep-learning-assignment--2
 
 Assignment 2b - play with advanced tensorflow primitives
 COlab links:
+
 PYTORCH  -
 https://colab.research.google.com/github/saipragna25/deep-learning-assignment--2/blob/main/DLA2bPytorch.ipynb
 
